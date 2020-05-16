@@ -24,7 +24,7 @@
 /*
  * @test
  * @bug 4263768 4785453
- * @summary Verify that the compiler does not crash when java.lang is not
+ * @summary Verify that the compiler does not crash when java.lang is not available
  * @library /tools/javac/lib
  * @build ToolBox
  * @run main NoJavaLangTest
