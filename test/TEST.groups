@@ -26,10 +26,7 @@
 langtools_tier1 = \
     tools \
     com \
-    lib \
-    -tools/javac/fatalErrors \
-    -tools/javac/diags/CheckExamples.java
-    
+    lib
 
 # No langtools tests are tier 2
 langtools_tier2 =
